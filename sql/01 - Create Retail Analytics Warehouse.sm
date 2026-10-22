@@ -1,0 +1,28 @@
+
+-- 1. Create a small warehouse for our project.
+-- It starts suspended to avoid unnecessary compute usage.
+CREATE WAREHOUSE IF NOT EXISTS RETAIL_WH
+    WAREHOUSE_SIZE = 'XSMALL'
+    AUTO_SUSPEND = 60
+    AUTO_RESUME = TRUE
+    INITIALLY_SUSPENDED = TRUE
+    COMMENT = 'Warehouse for retail analytics portfolio project';
+
+-- 2. Create the project database.
+CREATE DATABASE IF NOT EXISTS RETAIL_ANALYTICS;
+
+-- 3. Create schemas to separate raw data from transformations.
+CREATE SCHEMA IF NOT EXISTS RETAIL_ANALYTICS.RAW;
+CREATE SCHEMA IF NOT EXISTS RETAIL_ANALYTICS.STAGING;
+CREATE SCHEMA IF NOT EXISTS RETAIL_ANALYTICS.ANALYTICS;
+
+-- 4. Set the context for subsequent SQL statements.
+USE WAREHOUSE RETAIL_WH;
+USE DATABASE RETAIL_ANALYTICS;
+USE SCHEMA RAW;
+
+-- 5. Verify the setup.
+SELECT
+    CURRENT_DATABASE() AS current_database,
+    CURRENT_SCHEMA() AS current_schema,
+    CURRENT_WAREHOUSE() AS current_warehouse;
