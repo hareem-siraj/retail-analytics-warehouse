@@ -1,0 +1,101 @@
+customer_id,customer_name,email,city,segment,updated_at
+C0001,Sam Miller,customer1@example.com,Cologne,Consumer,2026-10-02T00:00:00
+C0002,Taylor Weber,customer2@example.com,Hamburg,Small Business,2026-10-03T00:00:00
+C0003,Casey Schmidt,customer3@example.com,Stuttgart,Consumer,2026-10-04T00:00:00
+C0004,Alex Schmidt,customer4@example.com,Frankfurt,Consumer,2026-10-05T00:00:00
+C0005,Casey Meyer,customer5@example.com,Berlin,Small Business,2026-10-06T00:00:00
+C0006,Taylor Smith,customer6@example.com,Stuttgart,Consumer,2026-10-07T00:00:00
+C0007,Robin Meyer,customer7@example.com,Cologne,Consumer,2026-10-08T00:00:00
+C0008,Jordan Khan,customer8@example.com,Marburg,Business,2026-10-09T00:00:00
+C0009,Jordan Fischer,customer9@example.com,Marburg,Consumer,2026-10-10T00:00:00
+C0010,Sam Khan,customer10@example.com,Hamburg,Business,2026-10-11T00:00:00
+C0011,Jamie Meyer,customer11@example.com,Cologne,Consumer,2026-10-12T00:00:00
+C0012,Robin Smith,customer12@example.com,Hamburg,Business,2026-10-13T00:00:00
+C0013,Sam Smith,customer13@example.com,COLOGNE,Small Business,2026-10-14T00:00:00
+C0014,Avery Wilson,customer14@example.com,Frankfurt,Small Business,2026-10-15T00:00:00
+C0015,Sam Miller,customer15@example.com,Frankfurt,Business,2026-10-16T00:00:00
+C0016,Sam Fischer,customer16@example.com,Hamburg,Business,2026-10-17T00:00:00
+C0017,Morgan Ali,customer17@example.com,Marburg,Consumer,2026-10-18T00:00:00
+C0018,Jamie Wilson,customer18@example.com,Frankfurt,Small Business,2026-10-19T00:00:00
+C0019,Morgan Schmidt,,Munich,Small Business,2026-10-20T00:00:00
+C0020,Taylor Weber,customer20@example.com,Leipzig,Business,2026-10-21T00:00:00
+C0021,Morgan Smith,customer21@example.com,Frankfurt,Small Business,2026-10-22T00:00:00
+C0022,Jamie Miller,customer22@example.com,Frankfurt,Consumer,2026-10-23T00:00:00
+C0023,Jamie Khan,customer23@example.com,Cologne,Consumer,2026-10-24T00:00:00
+C0024,Taylor Meyer,customer24@example.com,Marburg,Consumer,2026-10-25T00:00:00
+C0025,Robin Khan,customer25@example.com,Leipzig,Consumer,2026-10-26T00:00:00
+C0026,Morgan Weber,customer26@example.com,FRANKFURT,Small Business,2026-10-27T00:00:00
+C0027,Casey Smith,customer27@example.com,Cologne,Small Business,2026-10-28T00:00:00
+C0028,Avery Khan,customer28@example.com,Stuttgart,Business,2026-10-29T00:00:00
+C0029,Taylor Weber,customer29@example.com,Leipzig,Consumer,2026-10-30T00:00:00
+C0030,Alex Schmidt,customer30@example.com,Munich,Small Business,2026-10-31T00:00:00
+C0031,Jordan Khan,customer31@example.com,Hamburg,Business,2026-11-01T00:00:00
+C0032,Chris Meyer,customer32@example.com,Leipzig,Small Business,2026-11-02T00:00:00
+C0033,Morgan Smith,customer33@example.com,Berlin,Small Business,2026-11-03T00:00:00
+C0034,Sam Smith,customer34@example.com,Cologne,Small Business,2026-11-04T00:00:00
+C0035,Jamie Schmidt,customer35@example.com,Cologne,Business,2026-11-05T00:00:00
+C0036,Jordan Ali,customer36@example.com,Berlin,Small Business,2026-11-06T00:00:00
+C0037,Morgan Smith,customer37@example.com,Munich,Small Business,2026-11-07T00:00:00
+C0038,Sam Brown,,Frankfurt,Consumer,2026-11-08T00:00:00
+C0039,Jamie Weber,customer39@example.com,BERLIN,Small Business,2026-11-09T00:00:00
+C0040,Jamie Ali,customer40@example.com,Berlin,Consumer,2026-11-10T00:00:00
+C0041,Jamie Brown,customer41@example.com,Frankfurt,Consumer,2026-11-11T00:00:00
+C0042,Taylor Meyer,customer42@example.com,Hamburg,Consumer,2026-11-12T00:00:00
+C0043,Robin Schmidt,customer43@example.com,Munich,Consumer,2026-11-13T00:00:00
+C0044,Robin Smith,customer44@example.com,Munich,Business,2026-11-14T00:00:00
+C0045,Casey Meyer,customer45@example.com,Stuttgart,Consumer,2026-11-15T00:00:00
+C0046,Casey Fischer,customer46@example.com,Cologne,Business,2026-11-16T00:00:00
+C0047,Jamie Ali,customer47@example.com,Leipzig,Consumer,2026-11-17T00:00:00
+C0048,Taylor Fischer,customer48@example.com,Hamburg,Business,2026-11-18T00:00:00
+C0049,Alex Meyer,customer49@example.com,Frankfurt,Small Business,2026-11-19T00:00:00
+C0050,Taylor Miller,customer50@example.com,Hamburg,Small Business,2026-11-20T00:00:00
+C0051,Alex Fischer,customer51@example.com,Hamburg,Consumer,2026-11-21T00:00:00
+C0052,Jamie Schmidt,customer52@example.com,FRANKFURT,Business,2026-11-22T00:00:00
+C0053,Robin Fischer,customer53@example.com,Munich,Small Business,2026-11-23T00:00:00
+C0054,Avery Meyer,customer54@example.com,Leipzig,Consumer,2026-11-24T00:00:00
+C0055,Robin Khan,customer55@example.com,Frankfurt,Consumer,2026-11-25T00:00:00
+C0056,Sam Khan,customer56@example.com,Marburg,Business,2026-11-26T00:00:00
+C0057,Chris Ali,,Berlin,Small Business,2026-11-27T00:00:00
+C0058,Sam Miller,customer58@example.com,Stuttgart,Small Business,2026-11-28T00:00:00
+C0059,Jamie Schmidt,customer59@example.com,Frankfurt,Consumer,2026-11-29T00:00:00
+C0060,Taylor Smith,customer60@example.com,Leipzig,Consumer,2026-11-30T00:00:00
+C0061,Chris Weber,customer61@example.com,Cologne,Business,2026-12-01T00:00:00
+C0062,Taylor Schmidt,customer62@example.com,Leipzig,Small Business,2026-12-02T00:00:00
+C0063,Sam Miller,customer63@example.com,Berlin,Consumer,2026-12-03T00:00:00
+C0064,Taylor Weber,customer64@example.com,Stuttgart,Business,2026-12-04T00:00:00
+C0065,Robin Fischer,customer65@example.com,STUTTGART,Consumer,2026-12-05T00:00:00
+C0066,Jordan Khan,customer66@example.com,Berlin,Business,2026-12-06T00:00:00
+C0067,Morgan Ali,customer67@example.com,Cologne,Business,2026-12-07T00:00:00
+C0068,Casey Ali,customer68@example.com,Munich,Consumer,2026-12-08T00:00:00
+C0069,Morgan Fischer,customer69@example.com,Berlin,Small Business,2026-12-09T00:00:00
+C0070,Casey Miller,customer70@example.com,Marburg,Consumer,2026-12-10T00:00:00
+C0071,Alex Meyer,customer71@example.com,Leipzig,Small Business,2026-12-11T00:00:00
+C0072,Casey Weber,customer72@example.com,Berlin,Small Business,2026-12-12T00:00:00
+C0073,Sam Weber,customer73@example.com,Hamburg,Small Business,2026-12-13T00:00:00
+C0074,Sam Fischer,customer74@example.com,Stuttgart,Consumer,2026-12-14T00:00:00
+C0075,Avery Fischer,customer75@example.com,Berlin,Small Business,2026-12-15T00:00:00
+C0076,Sam Khan,,Marburg,Business,2026-12-16T00:00:00
+C0077,Taylor Wilson,customer77@example.com,Frankfurt,Business,2026-12-17T00:00:00
+C0078,Chris Weber,customer78@example.com,COLOGNE,Business,2026-12-18T00:00:00
+C0079,Jamie Schmidt,customer79@example.com,Berlin,Business,2026-12-19T00:00:00
+C0080,Avery Meyer,customer80@example.com,Hamburg,Consumer,2026-12-20T00:00:00
+C0081,Casey Fischer,customer81@example.com,Cologne,Consumer,2026-12-21T00:00:00
+C0082,Jamie Schmidt,customer82@example.com,Frankfurt,Business,2026-12-22T00:00:00
+C0083,Morgan Weber,customer83@example.com,Leipzig,Small Business,2026-12-23T00:00:00
+C0084,Morgan Meyer,customer84@example.com,Berlin,Small Business,2026-12-24T00:00:00
+C0085,Casey Brown,customer85@example.com,Hamburg,Consumer,2026-12-25T00:00:00
+C0086,Morgan Schmidt,customer86@example.com,Hamburg,Small Business,2026-12-26T00:00:00
+C0087,Casey Weber,customer87@example.com,Cologne,Business,2026-12-27T00:00:00
+C0088,Avery Fischer,customer88@example.com,Marburg,Consumer,2026-12-28T00:00:00
+C0089,Morgan Smith,customer89@example.com,Leipzig,Business,2026-12-29T00:00:00
+C0090,Alex Schmidt,customer90@example.com,Stuttgart,Business,2026-12-30T00:00:00
+C0091,Alex Miller,customer91@example.com,MARBURG,Consumer,2026-12-31T00:00:00
+C0092,Morgan Weber,customer92@example.com,Leipzig,Small Business,2027-01-01T00:00:00
+C0093,Chris Smith,customer93@example.com,Berlin,Consumer,2027-01-02T00:00:00
+C0094,Sam Weber,customer94@example.com,Berlin,Business,2027-01-03T00:00:00
+C0095,Avery Smith,,Munich,Business,2027-01-04T00:00:00
+C0096,Jordan Miller,customer96@example.com,Cologne,Business,2027-01-05T00:00:00
+C0097,Alex Wilson,customer97@example.com,Frankfurt,Small Business,2027-01-06T00:00:00
+C0098,Taylor Schmidt,customer98@example.com,Marburg,Small Business,2027-01-07T00:00:00
+C0099,Chris Meyer,customer99@example.com,Munich,Consumer,2027-01-08T00:00:00
+C0100,Jordan Weber,customer100@example.com,Stuttgart,Consumer,2027-01-09T00:00:00
